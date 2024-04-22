@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jariif
+- 👋 Hi, I’m @jarif
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
 - ⚡ Fun fact: I am a professional Windows user
